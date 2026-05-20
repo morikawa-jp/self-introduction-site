@@ -1,6 +1,6 @@
 # self-introduction-site
 
-##
+## 概要
 
 - HTML/CSS学習用に作成
 
