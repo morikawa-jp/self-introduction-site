@@ -5,8 +5,11 @@ alert("こんにちは");
 const button =
   document.getElementById("changeButton");
 
+const title =
+  document.getElementById("title");
+
 button.addEventListener("click", function () {
-  alert("押された！");
+  title.textContent = "変更された！";
 });
 
 console.log(button);
